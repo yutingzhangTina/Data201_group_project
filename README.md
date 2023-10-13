@@ -1,6 +1,6 @@
 # Data201_group_project
 # Topic: Economic of NZ associate with the World
-# member: yuting zhang,
+# member: yuting zhang,pingyuan ma
 This project mainly collects raw data from the website, cleans it and integrates it to generate various easy-to-understand charts to get the parts we are interested in. The raw data mainly includes three parts: tuition income from higher international education in New Zealand, the number of people in New Zealand’s tourism industry, and Import and export products. We analyze the changes in New Zealand's international economy in recent years by analyzing the data of these three major industries.
 
 Data sources: 
