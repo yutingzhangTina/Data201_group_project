@@ -1,6 +1,6 @@
 # Data201_group_project
 
-**Topic: Economic of NZ associate with the World**
+**Topic: Internatinal Economic of New Zealand**
 
 Group member: yuting zhang, pingyuan ma, Yuhao Huang
 
