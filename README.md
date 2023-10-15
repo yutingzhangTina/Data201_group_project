@@ -12,19 +12,10 @@ This project mainly collects raw data from the website, cleans it and integrates
 
     https://catalogue.data.govt.nz/dataset/international-travel 
 
-2. International Travel and Migration
-
-    https://catalogue.data.govt.nz/dataset/international-travel-and-migration 
-
-3. International Visitor Arrivals to New Zealand 
-
-    https://catalogue.data.govt.nz/dataset/international-visitor-arrivals-to-new-zealand 
-
-4. International students in New Zealand 
+2. International students in New Zealand 
 
     https://catalogue.data.govt.nz/dataset/international-students-studying-in-new-zealand
 
-5. Overseas Merchandise Trade
+3. Overseas Merchandise Trade
     https://catalogue.data.govt.nz/dataset/overseas-merchandise-trade-statistics
-6.  Balance of Payments and International Investment Position 
-    https://catalogue.data.govt.nz/dataset/balance-of-payments
+
